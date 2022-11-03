@@ -1,4 +1,4 @@
-# Swift ORM
+# Swift ORM [![Swift](https://github.com/anil291987/Sworm/actions/workflows/swift.yml/badge.svg)](https://github.com/anil291987/Sworm/actions/workflows/swift.yml)
 
 ![SWORM](logo.svg)
 
